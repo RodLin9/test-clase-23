@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <h1>Clase del día 23</h1>
+      <h1>Alex feo</h1>
     </>
   )
 }
